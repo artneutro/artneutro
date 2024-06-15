@@ -1,6 +1,7 @@
+GitHub default profile template test:
 - 🔭 I’m currently working on Cloud Computing and Quantum Computing
-- 🌱 I’m currently learning Systems Engineering and People Management
-- 👯 I’m looking to collaborate on Open Source and Children Learning
+- 🌱 I’m currently learning Complex Systems Engineering and People Management
+- 👯 I’m looking to collaborate on Open Source Code and Children Coding Learning 
 - 🤔 I’m looking for help with Astrophysics and Chemistry
 - 💬 Ask me about Chess and Food
 - 📫 How to reach me: https://www.linkedin.com/in/joselohuang/
