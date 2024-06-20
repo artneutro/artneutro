@@ -3,7 +3,7 @@ GitHub default profile template test:
 - 🌱 I’m currently learning Complex Systems Engineering and People Management
 - 👯 I’m looking to collaborate on Open Source Code and Children Coding Learning 
 - 🤔 I’m looking for help with Astrophysics and Chemistry
-- 💬 Ask me about Chess and Food
+- 💬 Ask me about Chess and Travel
 - 📫 How to reach me: https://www.linkedin.com/in/joselohuang/
 - 😄 Pronouns: N/A
 - ⚡ Fun fact: Life
