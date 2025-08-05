@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose Lo Huang</h1>
-<h3 align="center">A passionate software engineer from Venezuela</h3>
+<h3 align="center">A passionate software engineer from Venezuela.</h3>
 
-- 🌱 I’m currently learning **Quantum Computing Error Correction Methods & Deep Learning**
+- 🌱 I’m currently learning **Quantum Computing Error Correction Methods & Deep Learning.**
 
-- 💬 Ask me about **AWS, Distributed Systems, Quantum Computing, Blockchain, Oracle, Chess, Travelling, Trading, etc. Anything at all I'll be more then willing to have a conversation**
+- 💬 Ask me about **AWS, Distributed Systems, Quantum Computing, Blockchain, Oracle, Chess, Travelling, Trading, etc. Anything at all I'll be more then willing to have a conversation.**
 <!--
 - 📫 How to reach me **marcelkpalmer@gmail.com**
 -->
