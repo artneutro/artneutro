@@ -20,9 +20,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artneutro&show_icons=true&locale=en&layout=compact" alt="artneutro" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=artneutro&show_icons=true&locale=en" alt="artneutro" /></p>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artneutro" alt="artneutro" /></p>
-
+-->
 Last updated: 2023-08-05T00:00:00+00:00
 
 <!--
