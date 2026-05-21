@@ -6,7 +6,7 @@
 - 💬 Ask me about **AWS, Distributed Systems, Quantum Computing, Blockchain, Oracle, Chess, Travelling, Trading, etc. Anything at all I'll be more than willing to have a conversation.**
 
 <p>
-</p>
+<p>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=artneutro&theme=tokyonight&hide_border=true" width="52%"/> 
