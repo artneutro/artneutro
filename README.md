@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **AWS, Distributed Systems, Quantum Computing, Blockchain, Oracle, Chess, Travelling, Trading, etc. Anything at all I'll be more than willing to have a conversation.**
 
-</p>
+<p>
 </p>
 
 <div align="center">
