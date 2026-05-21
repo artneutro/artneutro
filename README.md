@@ -23,6 +23,10 @@
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artneutro" alt="artneutro" /></p>
 -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artneutro&theme=tokyonight&hide_border=true" width="52%"/> 
+</div>
+
 <p></p>
 Last updated: 2023-08-05T00:00:00+00:00
 
@@ -36,6 +40,8 @@ GitHub default profile template test 20200911 :
 - 📫 How to reach me: https://www.linkedin.com/in/joselohuang/
 - 😄 Pronouns: N/A
 - ⚡ Fun fact: Life
+
+https://github-readme-streak-stats.herokuapp.com/?user=artneutro&theme=tokyonight&hide_border=true
 
 <!--
 **artneutro/artneutro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
